@@ -127,7 +127,7 @@ Payload injected into product name field via admin panel:
 <iframe src="javascript:alert(`DOM XSS`)">
 ```
 
-> 📸 *Screenshot: Alert box triggered on product listing page*
+
 
 #### Impact
 - Session hijacking via `document.cookie` theft
