@@ -286,7 +286,7 @@ The admin panel at `/administration` is only hidden from the UI — no server-si
 2. Navigate directly to: `http://localhost:3000/#/administration`
 3. Full admin panel loads — user list, order list, all visible
 
-> 📸 *Screenshot: Admin panel accessible with non-admin JWT token*
+
 
 #### Remediation
 ```
